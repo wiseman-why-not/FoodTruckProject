@@ -10,8 +10,8 @@ public class FoodTruckApp {
 
 	// main
 	public static void main(String[] args) {
-		FoodTruckApp x = new FoodTruckApp();
-		x.run();
+		FoodTruckApp newFoodTruckApp = new FoodTruckApp();
+		newFoodTruckApp.run();
 	}
 
 	// methods
